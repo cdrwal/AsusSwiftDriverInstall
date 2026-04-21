@@ -1,0 +1,15 @@
+# ============================================================
+#  Driver Installation Sequence
+#  One Extracted Folder Name Per Line.
+#  # = Comments.
+#  All folders must sit in the same directory as the script.
+# ============================================================
+
+iGPU
+SysControl
+LAN
+WLAN
+Bluetooth
+Audio
+Atmos
+Touchpad
